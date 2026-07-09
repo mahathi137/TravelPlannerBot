@@ -1,7 +1,7 @@
 
 # ✈️ TravelBot — Smart Travel Planner Agent
 
-> A polished Flask-based travel planner that combines a clean Bootstrap interface with IBM watsonx.ai integration and a reliable demo mode fallback. It is designed for internship-style project submissions and focuses on practical travel planning features rather than flashy extras.
+ A polished Flask-based travel planner that combines a clean Bootstrap interface with IBM watsonx.ai integration and a reliable demo mode fallback. It is designed for internship-style project submissions and focuses on practical travel planning features rather than flashy extras.
 
 ---
 ---
