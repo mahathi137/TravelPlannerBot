@@ -1,0 +1,37 @@
+{
+  "name": "Smart Travel Planner Agent",
+  "description": "AI-powered Travel Planner developed for the IBM SkillsBuild Internship Project Showcase using Python Flask, IBM watsonx.ai, IBM Granite Models, and IBM Cloud Lite.",
+  "version": "1.0.0",
+  "author": "Relangi Mahathi",
+  "problem_statement": "Problem Statement No. 5 - Travel Planner Agent",
+  "technologies": [
+    "Python Flask",
+    "IBM watsonx.ai",
+    "IBM Granite Models",
+    "IBM Cloud Lite",
+    "Bootstrap 5",
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "features": [
+    "AI Travel Assistant",
+    "Travel Budget Planner",
+    "AI Itinerary Generator",
+    "Destination Recommendations",
+    "Hotel Suggestions",
+    "Restaurant Suggestions",
+    "Travel Tips",
+    "Trip Summary"
+  ],
+  "environment": {
+    "IBM_API_KEY": "YOUR_IBM_CLOUD_API_KEY",
+    "WATSONX_PROJECT_ID": "YOUR_PROJECT_ID",
+    "WATSONX_URL": "YOUR_WATSONX_URL",
+    "WATSONX_MODEL_ID": "ibm/granite-3-3-8b-instruct"
+  },
+  "deployment": {
+    "platform": "IBM Cloud Lite",
+    "framework": "Flask"
+  }
+}
