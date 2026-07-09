@@ -366,11 +366,8 @@ Set environment variables in the platform dashboard:
 
 ## 📝 License
 
-MIT License — free for personal and commercial use.
+MIT License 
 
 ---
 
-*Built with ❤️ using IBM Watsonx.ai, Granite Models, Python Flask, and Bootstrap 5*
-=======
-# TravelPlannerBot
->>>>>>> 0b46c14f33610cd88c62583acad0a8701d87c3df
+
